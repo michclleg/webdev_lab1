@@ -2,12 +2,14 @@ body {
 	background-color:#ffcce6;
 }
 
-h1 {
-	font-size: 16px;
+p, h1 {
+	font-size: 20px;
 	text-align:center;
 	color:floralwhite;
+	margin:1em auto;
 }
 p {
-	color:white;
+	border-color: #660035;
+	background-color: #ff99ce;
 
 }
