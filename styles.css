@@ -9,7 +9,7 @@ p, h1 {
 	margin:1em auto;
 }
 p {
-	border-color: #660035;
+	max-width:50%;
 	background-color: #ff99ce;
 
 }
